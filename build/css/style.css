@@ -29,7 +29,6 @@ html {
 }
 
 /*-------------------------------------------------------------------------*/
-@import url("https://fonts.googleapis.com/css?family=Titan+One");
 :root {
   --h1-font-size: calc(3.6em + 1vw);
   --texture-image: url(../../src/Image/giphy.gif);
